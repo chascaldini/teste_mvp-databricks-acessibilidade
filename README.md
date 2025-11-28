@@ -1,9 +1,9 @@
-# MVP – Análise de Dados (Databricks)
+## 📄 Notebook Databricks – Visualização Completa
 
-## 📄 Notebook Completo (visualização bonita)
-Para visualizar o notebook exportado do Databricks em formato navegável no navegador:
+Para facilitar a avaliação, o notebook exportado do Databricks está disponível em versão HTML totalmente renderizada:
 
-👉 **[Clique aqui para abrir o notebook renderizado](https://htmlpreview.github.io/?https://raw.githubusercontent.com/chascaldini/teste_mvp-databricks-acessibilidade/refs/heads/main/Treino_MVP_surda.html)**
+👉 **[Clique aqui para visualizar o notebook completo](https://chascaldini.github.io/teste_mvp-databricks-acessibilidade/Treino_MVP_surda.html)**
 
-> Essa visualização é fornecida pelo HTMLPreview e apresenta o notebook exatamente como exportado do Databricks, com Markdown, tabelas, gráficos e outputs intactos.
+Se preferir baixar o arquivo HTML original:
 
+📥 **[Download do arquivo](https://raw.githubusercontent.com/chascaldini/teste_mvp-databricks-acessibilidade/main/Treino_MVP_surda.html)**
