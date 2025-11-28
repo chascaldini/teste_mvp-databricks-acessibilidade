@@ -1,11 +1,7 @@
-# teste_mvp-databricks-acessibilidade
+## Notebook Completo
 
-Repositório de treino para o MVP da pós em Data Science & Analytics.
+📄 **Acesse o notebook HTML (versão exportada do Databricks):**
 
-## Notebook completo
+👉 [Clique aqui para abrir o notebook completo](https://raw.githubusercontent.com/chascaldini/teste_mvp-databricks-acessibilidade/refs/heads/main/Treino_MVP_surda.html)
 
-📄 [Ver notebook HTML (Databricks)])([Treino_ MVP - Atendimento à Comunidade Surda em Sala de Aula.html](https://raw.githubusercontent.com/chascaldini/teste_mvp-databricks-acessibilidade/refs/heads/main/Treino_MVP_surda.html))
-
-## Evidências
-
-As imagens de evidência da pipeline ETL estão na pasta `img/` e também referenciadas no próprio notebook HTML.
+> Caso o navegador baixe o arquivo em vez de abrir, basta abrir o HTML no próprio navegador.
